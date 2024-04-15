@@ -14,28 +14,18 @@ This is a tool for generating advertisement posters with different backgrounds f
 To run this tool locally, follow these steps:
 
 1. Clone this repository to your local machine:
-git clone https://github.com/yourusername/advertisement-poster-generator.git
+```git clone https://github.com/yourusername/advertisement-poster-generator.git```
 
-css
-Copy code
 2. Navigate to the project directory:
-cd advertisement-poster-generator
+```cd advertisement-poster-generator```
 
-markdown
-Copy code
 3. Install the required dependencies:
-pip install -r requirements.txt
-
-bash
-Copy code
+```pip install -r requirements.txt```
 
 ## Usage
 
 To run the tool, execute the following command:
-streamlit run app.py
-
-css
-Copy code
+```streamlit run app.py```
 
 Follow the instructions provided on the Streamlit web interface to upload product images, enter brand names, and generate advertisement posters.
 
@@ -53,12 +43,12 @@ The `output_images` folder contains the generated advertisement posters. Each su
 
 ## Sample Output
 
-![Sample Advertisement Poster 1](output_images/product1/advertisement_poster_1.jpg)
-![Sample Advertisement Poster 2](output_images/product1/advertisement_poster_2.jpg)
-![Sample Advertisement Poster 3](output_images/product1/advertisement_poster_3.jpg)
-![Sample Advertisement Poster 4](output_images/product1/advertisement_poster_4.jpg)
-![Sample Advertisement Poster 5](output_images/product1/advertisement_poster_5.jpg)
+![Sample Advertisement Poster 1](output_images/Seville/1.jpg)
+![Sample Advertisement Poster 2](output_images/Seville/2.jpg)
+![Sample Advertisement Poster 3](output_images/Seville/3.jpg)
+![Sample Advertisement Poster 4](output_images/Seville/4.jpg)
+![Sample Advertisement Poster 5](output_images/Seville/5.jpg)
 
-## Contributing
+## Author
 
-Contributions are welcome! Feel free to open an issue or submit a pull request.
+Bilal - ![GITHUB](https://github.com/mhmd-bilal)
