@@ -40,6 +40,13 @@ The `background_images` folder contains a collection of background images downlo
 ## Output Images
 
 The `output_images` folder contains the generated advertisement posters. Each subfolder corresponds to a product image and contains five posters with different backgrounds.
+Used the following prompts:
+```dark background absract
+dark bokkeh
+bright abstract 
+white background 
+white abstract
+````
 
 ## Sample Output
 
