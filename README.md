@@ -51,4 +51,4 @@ The `output_images` folder contains the generated advertisement posters. Each su
 
 ## Author
 
-Bilal - ![GITHUB](https://github.com/mhmd-bilal)
+Bilal - https://github.com/mhmd-bilal
