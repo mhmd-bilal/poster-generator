@@ -43,11 +43,11 @@ The `output_images` folder contains the generated advertisement posters. Each su
 
 ## Sample Output
 
-![Sample Advertisement Poster 1](output_images/Seville/1.jpg)
-![Sample Advertisement Poster 2](output_images/Seville/2.jpg)
-![Sample Advertisement Poster 3](output_images/Seville/3.jpg)
-![Sample Advertisement Poster 4](output_images/Seville/4.jpg)
-![Sample Advertisement Poster 5](output_images/Seville/5.jpg)
+![Sample Advertisement Poster 1](output/Seville/1.jpg)
+![Sample Advertisement Poster 2](output/Seville/2.jpg)
+![Sample Advertisement Poster 3](output/Seville/3.jpg)
+![Sample Advertisement Poster 4](output/Seville/4.jpg)
+![Sample Advertisement Poster 5](output/Seville/5.jpg)
 
 ## Author
 
